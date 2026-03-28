@@ -1,6 +1,0 @@
-RECENT UPDATES:
----------------
-Added Papa's Pancakeria .swf to /assets/swf/
-Added Papa's Pancakeria link to papasgames.html
-Added Papa's Pancakeria .html to /games/papasgames/
-====MERGED====
